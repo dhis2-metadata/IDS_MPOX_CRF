@@ -1,1 +1,1 @@
-# Mpox Case Surveillance - Case Report Form  { #ids-mpox-crf-installation }
+# Mpox Case Surveillance - Case Report Form  { #mpox-crf-installation }
